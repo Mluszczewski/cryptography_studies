@@ -1,0 +1,2 @@
+Program nie obsluguje wszystkich opcji (-s, -v)
+Druga linia w pliku elgamal.txt, nie może zaczynać się spacją

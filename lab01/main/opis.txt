@@ -1,0 +1,3 @@
+1 - Wymaganym plikem jest plain.txt
+2 - Brak implementacji kryptoanazlizy w oparciu o tekst jawny dla szyfru Afinicznego
+

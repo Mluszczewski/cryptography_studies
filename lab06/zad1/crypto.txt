@@ -1,0 +1,10 @@
+pub   dsa1024 2009-12-31 [SC]
+      787B83ECD8B49BBFE846B93D0194B2F24DB19F11
+uid           Tadeusz Żeleński (Boy) <tzb@ziemianska.pl>
+sub   elg1024 2009-12-31 [E]
+
+pub   rsa3072 2018-12-06 [SCA] [wygasł: 2019-02-04]
+      C6DA225F5436427F0BF92C3978A0E5A48AE4DE8D
+uid           Andrzej Borzyszkowski <a.borzyszkowski@inf.ug.edu.pl>
+sub   rsa3072 2018-12-06 [E] [wygasł: 2019-02-04]
+
